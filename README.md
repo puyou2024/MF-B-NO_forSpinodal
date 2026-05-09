@@ -28,12 +28,3 @@ The HF model learns the discrepancy (residual) between the LF predictions and th
 * **Trunk Net:** Augmented with the LF model's predicted stress ($\sigma_L$) along with standard loading conditions.
 * **Prediction:** The final output is the sum of the LF prediction and the learned Bayesian residual.
 
-## Installation
-
-To set up the environment, please install the required dependencies. It is recommended to use a virtual environment.
-
-```bash
-# Clone the repository
-
-
-# Install dependencies
